@@ -1,0 +1,149 @@
+[
+  {
+    "title": "Lenovo IdeaTab",
+    "price": 69.99,
+    "description": "7\" screen, Android",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "IdeaTab A3500L",
+    "price": 88.99,
+    "description": "Black, 7\" IPS, Quad-Core 1.2GHz, 8GB, Android 4.2",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Acer Iconia",
+    "price": 96.99,
+    "description": "7\" screen, Android, 16GB",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Galaxy Tab 3",
+    "price": 97.99,
+    "description": "7\", 8GB, Wi-Fi, Android 4.2, White",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Iconia B1-730HD",
+    "price": 99.99,
+    "description": "Black, 7\", 1.6GHz Dual-Core, 8GB, Android 4.4",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Memo Pad HD 7",
+    "price": 101.99,
+    "description": "IPS, Dual-Core 1.2GHz, 8GB, Android 4.3",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Asus MeMO Pad",
+    "price": 102.99,
+    "description": "7\" screen, Android, 8GB",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Amazon Kindle",
+    "price": 103.99,
+    "description": "6\" screen, wifi",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Galaxy Tab 3",
+    "price": 107.99,
+    "description": "7\", 8GB, Wi-Fi, Android 4.2, Yellow",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "IdeaTab A8-50",
+    "price": 121.99,
+    "description": "Blue, 8\" IPS, Quad-Core 1.3GHz, 16GB, Android 4.2",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "MeMO Pad 7",
+    "price": 130.99,
+    "description": "White, 7\", Atom 1.2GHz, 8GB, Android 4.4",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "IdeaTab A3500-H",
+    "price": 148.99,
+    "description": "Blue, 7\" IPS, Quad-Core 1.3GHz, 8GB, 3G, Android 4.2",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "IdeaTab S5000",
+    "price": 172.99,
+    "description": "Silver, 7\" IPS, Quad-Core 1.2Ghz, 16GB, 3G, Android 4.2",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Galaxy Tab 4",
+    "price": 233.99,
+    "description": "LTE (SM-T235), Quad-Core 1.2GHz, 8GB, Black",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Galaxy Tab",
+    "price": 251.99,
+    "description": "16GB, White",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "MeMo PAD FHD 10",
+    "price": 320.99,
+    "description": "White, 10.1\" IPS, 1.6GHz, 2GB, 16GB, Android 4.2",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Galaxy Note",
+    "price": 399.99,
+    "description": "10.1\", 3G, Android 4.0, Garnet Red",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Galaxy Note",
+    "price": 489.99,
+    "description": "12.2\", 32GB, WiFi, Android 4.4, White",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "iPad Mini Retina",
+    "price": 537.99,
+    "description": "Wi-Fi + Cellular, 32GB, Silver",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Galaxy Note 10.1",
+    "price": 587.99,
+    "description": "10.1\", 32GB, Black",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  },
+  {
+    "title": "Apple iPad Air",
+    "price": 603.99,
+    "description": "Wi-Fi, 64GB, Silver",
+    "rating": 5,
+    "image_url": "/images/test-sites/e-commerce/items/cart2.png"
+  }
+]
