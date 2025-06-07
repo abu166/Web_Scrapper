@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/web_scrapper.git
+git clone https://github.com/abu166/Web_Scrapper.git
 cd web_scrapper
 ```
 
