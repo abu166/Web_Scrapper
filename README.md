@@ -1,4 +1,4 @@
-# Web Scraper Project README
+# Web Scraper Project
 
 This project scrapes tablet product data from a test website and stores it in a PostgreSQL database. It uses **Colly** with **ChromeDP** for scraping, **GoQuery** for HTML parsing, and **PostgreSQL** as the storage backend.
 
