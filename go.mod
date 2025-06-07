@@ -1,10 +1,11 @@
 module web_scrapper
 
-go 1.24.3
+go 1.24
 
 require (
 	github.com/PuerkitoBio/goquery v1.10.2
 	github.com/chromedp/chromedp v0.13.6
+	github.com/lib/pq v1.10.9
 )
 
 require (
@@ -15,6 +16,7 @@ require (
 	github.com/gobwas/httphead v0.1.0 // indirect
 	github.com/gobwas/pool v0.2.1 // indirect
 	github.com/gobwas/ws v1.4.0 // indirect
+	github.com/joho/godotenv v1.5.1 // indirect
 	golang.org/x/net v0.37.0 // indirect
 	golang.org/x/sys v0.31.0 // indirect
 )
